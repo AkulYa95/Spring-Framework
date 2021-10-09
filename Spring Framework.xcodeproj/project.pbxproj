@@ -82,7 +82,7 @@
 		9AEA11C02710914D003E6E0C /* Spring Framework */ = {
 			isa = PBXGroup;
 			children = (
-				9AEFA6102711705000D464F1 /* Model */,
+				9AFA4782271184BD00365D71 /* AnimationType.swift */,
 				9AEA11C12710914D003E6E0C /* AppDelegate.swift */,
 				9AEA11C32710914D003E6E0C /* SceneDelegate.swift */,
 				9AEA11C52710914D003E6E0C /* ViewController.swift */,
@@ -92,15 +92,6 @@
 				9AEA11CF2710914E003E6E0C /* Info.plist */,
 			);
 			path = "Spring Framework";
-			sourceTree = "<group>";
-		};
-		9AEFA6102711705000D464F1 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				9AFA4782271184BD00365D71 /* AnimationType.swift */,
-			);
-			name = Model;
-			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
